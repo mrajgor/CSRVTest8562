@@ -11,6 +11,7 @@ public class X {
 
     public void z (){
       System.out.println("2");
+      System.out.println("3");
 
     }
 }
